@@ -1,0 +1,23 @@
+body {
+  background-color: #8cc6ff;
+}
+.col-sm-12 {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  width: 80rem;
+  height: 30rem;
+  box-shadow: 2px 2px 4px #000000;
+}
+.col-sm-4 {
+  background-color: #ffffff;
+  color: rgb(4, 0, 0);
+  margin-top: 1rem;
+  width: 20rem;
+  height: 20rem;
+  box-shadow: 2px 2px 4px #000000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+a {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+}
